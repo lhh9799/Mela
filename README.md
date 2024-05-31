@@ -124,7 +124,9 @@ Mela!는 メラメラ(메라메라), 일본어로 활활을 뜻하는 의성어�
 - ### [요구사항 명세서](https://valuable-flyingfish-5f5.notion.site/4e8269aba1c0414bb997d0a2554833af?pvs=74)
 - ### [API 설계](https://valuable-flyingfish-5f5.notion.site/API-aff8baaa08d44954a433ef4645ba6dad)
 
-## :rocket: 프로젝트 전체 스크린샷
+<details>
+<summary><h2>:rocket: 프로젝트 전체 스크린샷 </h2></summary>
+
 ### 1. Main
 - 로그아웃 상태
 <img src=./Docs/Screenshots/1_Main/1_LogoutStatus/1.png>
@@ -561,3 +563,4 @@ Mela!는 メラメラ(메라메라), 일본어로 활활을 뜻하는 의성어�
   | <img src=./Docs/Screenshots/7_SignUp/6.png> | 
   |:--:| 
   | 인증됨 |
+</details>
